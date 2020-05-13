@@ -1,4 +1,15 @@
 
+## Notes
+I'm working through this but will be using slightly more direct approach instead of the `sspa` tool. For instance, version 2 of `aws` cli does not require Python (has Python embedded).
+
+Also see: [5 AWS Services You Should Avoid!
+](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd) - which says all the things this project uses are "bad".
+
+Using LiveServer Visual Studio Code extension and Chrome extension instead of `spaa server`
+* https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+* https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj
+
+
 ## Change Log
 
 ### Beta 3 Changes
